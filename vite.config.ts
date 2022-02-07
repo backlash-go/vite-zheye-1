@@ -8,7 +8,7 @@ import path from 'path';
 
 import viteSvgIcons from 'vite-plugin-svg-icons';
 
-
+//按需引入ant design
 import Components from 'unplugin-vue-components/vite';
 import {AntDesignVueResolver} from 'unplugin-vue-components/resolvers';
 
